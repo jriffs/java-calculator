@@ -1,0 +1,1 @@
+this is a simple Java desktop calculator app ... the calculator class is exported as an executable ".jar" file 
